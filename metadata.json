@@ -1,0 +1,6 @@
+{
+  "name": "CyberMind AI — Intelligent Cybersecurity Assessment Platform",
+  "description": "AI-powered cybersecurity assessment platform that correlates findings, evaluates contextual risk, prioritizes threats, and keeps humans in the loop for the DataOps Innovation Hackathon 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
